@@ -59,7 +59,7 @@ I made some attempts changing the context, example;
 - /*/phpmyadmin/
 
 <p align="center">
-  <img width="600" height="250" src="./img/403.JPG">
+  <img width="600" height="250" src="https://github.com/0xSojalSec/Awesome-403-Bypass/blob/main/403.JPG">
 </p>
 
 However, without success :(
@@ -69,7 +69,7 @@ After a few attempts to pass the 403, I tried changing the context to;
 - **<span style="color:red;">///phpmyadmin///</span>**
 
 <p align="center">
-  <img width="600" height="250" src="./img/bypass.JPG">
+  <img width="600" height="250" src="https://github.com/0xSojalSec/Awesome-403-Bypass/blob/main/bypass.JPG">
 </p>
 
 In this case using 3 slashes (///), we managed to pass the 403 error and access the phpmyadmin login page. :ok_hand:
@@ -81,14 +81,14 @@ In this example, we access the wordpress login panel using, in this case, 2 slas
 In this url, we couldn't use the same context with 3 slashes, however, we managed using another change in the context.
 
 <p align="center">
-  <img width="600" height="250" src="./img/403-wp.JPG">
+  <img width="600" height="250" src="https://github.com/0xSojalSec/Awesome-403-Bypass/blob/main/403-wp.JPG">
 </p>
 
 Using the context below
 - **<span style="color:red;">//wp-admin//</span>**
 
 <p align="center">
-  <img width="600" height="400" src="./img/bypass-wp.JPG">
+  <img width="600" height="400" src="https://github.com/0xSojalSec/Awesome-403-Bypass/blob/main/bypass-wp.JPG">
 </p>
 <br>
 
